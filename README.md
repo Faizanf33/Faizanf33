@@ -5,7 +5,7 @@
 
 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/faizanf33) | [Facebook](https://www.facebook.com/faizanf33) | 
-  [Twitter](https://twitter.com/faizan33_fa) | [Email](mailto:faizanahmad33.fa@gmail.com) | 
+  [Twitter](https://twitter.com/faizan33_fa) | [Email](mailto:faizanahmad33.fa@gmail.com)
 
 <!---
 Faizanf33/Faizanf33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
